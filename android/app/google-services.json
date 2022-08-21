@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "645889841302",
+    "firebase_url": "https://fir-authentication-ff8eb-default-rtdb.firebaseio.com",
+    "project_id": "fir-authentication-ff8eb",
+    "storage_bucket": "fir-authentication-ff8eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645889841302:android:8c54d839410b41bec40ab7",
+        "android_client_info": {
+          "package_name": "com.Flutter.lesson8_9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645889841302-falkds1tasoj6v2s0obllu43prrj0sun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYjMuckALTLRqF4Nn6pHuOuqIfN9et3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645889841302-falkds1tasoj6v2s0obllu43prrj0sun.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "645889841302-a6uclilr4m2eg4cgoec9lmmdl83n09mi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authLesson9"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645889841302:android:92402a66da1bae5cc40ab7",
+        "android_client_info": {
+          "package_name": "com.Marwa_AlHawary.auth_lesson9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645889841302-falkds1tasoj6v2s0obllu43prrj0sun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxYjMuckALTLRqF4Nn6pHuOuqIfN9et3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645889841302-falkds1tasoj6v2s0obllu43prrj0sun.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "645889841302-a6uclilr4m2eg4cgoec9lmmdl83n09mi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authLesson9"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

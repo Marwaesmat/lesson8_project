@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>645889841302-118gkc8g1jc4uaj52v2fc0cn0l51vv45.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.645889841302-118gkc8g1jc4uaj52v2fc0cn0l51vv45</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCb50mPx5YIlcb-NBUcNWLjUipIajZAKX8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>645889841302</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.inputDialogLesson8</string>
+	<key>PROJECT_ID</key>
+	<string>fir-authentication-ff8eb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-authentication-ff8eb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:645889841302:ios:17846f4bf53c49d4c40ab7</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-authentication-ff8eb-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
